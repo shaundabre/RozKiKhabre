@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brett LoGiurato",
+            "title": "Stock market today: S&P 500, Nasdaq futures steady near record highs as Wall Street gets bullish - Yahoo Finance",
+            "description": "Wall Street wondered if the bull rally that has roared through 2024 has more room to run.",
+            "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-futures-steady-near-record-highs-as-wall-street-gets-bullish-112655763.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/h0.5aphJ0seXhUhY10f2lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/8a39d8c0-2c99-11ef-bb96-df7817cd9199",
+            "publishedAt": "2024-06-17T12:00:22Z",
+            "content": "US stock futures held near record-high levels Monday ahead of a holiday-shortened trading week as Wall Street wondered if the bull rally that has roared through 2024 has more room to run.\r\nFutures ti… [+1321 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "Fabiana Buontempo",
+            "title": "People Who Grew Up Poor Are Sharing What They Considered A \"Luxury\" That Other People Didn't - BuzzFeed",
+            "description": "\"I’ll never outgrow some of the feelings I had as a poor kid.\"",
+            "url": "https://www.buzzfeed.com/fabianabuontempo/people-who-grew-up-poor-are-sharing-things-that-are-luxuries",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-06/13/21/enhanced/c8e6bff2b6ef/original-1832-1718314799-2.jpg?crop=2988:1564;6,214%26downsize=1250:*",
+            "publishedAt": "2024-06-17T11:16:02Z",
+            "content": "u/nhenderson7\r\n\"And the big fancy restaurant was something like Red Lobster or Olive Garden. You got all dressed up and everything.\"\r\nu/LoverlyRails"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Ukraine's international bond rework derailed with little time left - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/europe/ukraine-bondholder-group-unable-reach-deal-formal-20-bln-debt-talks-2024-06-17/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T11:02:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Alex Oliveira, Georgett Roberts, Larry Celona",
+            "title": "Midtown Manhattan's '8th Ave. Corridor' plagued by junkies lying at tourists' feet, fighting in the streets - New York Post ",
+            "description": "A stretch of Midtown Manhattan has become a “strip of despair,” where smacked-out addicts shoot up, light up and conk out at the feet of commuters and tourists, locals say. “I see a lot of things a…",
+            "url": "https://nypost.com/2024/06/17/us-news/midtown-manhattans-shelter-lined-8th-ave-corridor-plagued-by-open-drug-use-strip-of-despair/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/two-men-taking-form-narcotics-83940316.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-06-17T11:00:00Z",
+            "content": "A stretch of Midtown Manhattan has become a strip of despair, where smacked-out addicts shoot up, light up and conk out at the feet of commuters and tourists, locals say.\r\nI see a lot of things aroun… [+5928 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "Oil steady as downbeat Chinese data offset demand hopes - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2VuZXJneS9vaWwtcHJpY2VzLWluY2gtZG93bi13ZWFrZXItdXMtY29uc3VtZXItZGVtYW5kLWFoZWFkLWNoaW5hLWRhdGEtMjAyNC0wNi0xNy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T10:53:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MarketWatch"
+            },
+            "author": "Jamie Chisholm",
+            "title": "Wall Street’s new top S&P target is 6,000. Here’s why. - MarketWatch",
+            "description": "Critical information for the U.S. trading day",
+            "url": "https://www.marketwatch.com/story/wall-streets-new-top-s-p-target-is-6-000-heres-why-1c9fb03c",
+            "urlToImage": "https://images.mktw.net/im-508862/social",
+            "publishedAt": "2024-06-17T10:33:00Z",
+            "content": "The new week starts with the S&amp;P 500 \r\n SPX\r\n looking to register its 30th record closing high of the year. And the optimistic market calls keep on coming.Standing out is Julian Emanuel, strategi… [+7710 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fortune",
+            "title": "Jensen Huang: Nvidia CEO on profound lesson from Japanese gardener - Fortune",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZm9ydHVuZS5jb20vMjAyNC8wNi8xNy9udmlkaWEtY2VvLWplbnNlbi1odWFuZy1qYXBhbmVzZS1nYXJkZW5lci1sZWFkZXJzaGlwLWxlc3Nvbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T10:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Samantha Subin, Tanaya Macheel",
+            "title": "Stock futures are little changed as S&P 500 looks to add to record: Live updates - CNBC",
+            "description": "Tech has been pushing the S&P 500 higher even as some cracks start to emerge in the market outlook.",
+            "url": "https://www.cnbc.com/2024/06/16/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428831-1718302323462-NYSE_Traders-OB-Photo-20240613-CC-PRESS-15.jpg?v=1718374373&w=1920&h=1080",
+            "publishedAt": "2024-06-17T10:17:20Z",
+            "content": "Stock futures were little changed on Monday morning as traders start a holiday-shortened week.\r\nFutures tied to the Dow Jones Industrial Average dipped 95 points, or 0.25%. S&amp;P 500 futures hovere… [+1229 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Yahoo Finance",
+            "title": "GameStop's fans await shareholder meeting, after high demand derailed first attempt - Yahoo Finance",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nYW1lc3RvcHMtZmFucy1hd2FpdC1zaGFyZWhvbGRlci1tZWV0aW5nLTEwMDQ1ODU3OC5odG1s0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T10:16:40Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Josh Schafer",
+            "title": "Latest inflation data provides potential for 'even greater upside' in the stock market rally - Yahoo Finance",
+            "description": "Positive developments in inflation data have Wall Street feeling more positive about the outlook for stocks into the end of the year.",
+            "url": "https://finance.yahoo.com/news/latest-inflation-data-provides-potential-for-even-greater-upside-in-the-stock-market-rally-100054916.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/My8nWu06ckxdlEDwipTPQg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-06/34cb9b80-273a-11ef-b663-d2d55f97ebe0",
+            "publishedAt": "2024-06-17T10:00:54Z",
+            "content": "After a rough start to 2024, the latest inflation data may very well mean more fuel for the current stock market rally.\r\n\"Inflation falling continues to be one of the primary factors behind the bull … [+4192 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Megan Henney",
+            "title": "US home prices just smashed another record high as affordability crisis deepens - Fox Business",
+            "description": "Buying a house just became more expensive for Americans, even as mortgage rates dropped to the lowest level in three months, according to a Redfin report.",
+            "url": "https://www.foxbusiness.com/economy/us-home-prices-just-smashed-another-record-high-affordability-crisis-deepens",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/03/0/0/House-for-Sale.jpg?ve=1&tl=1",
+            "publishedAt": "2024-06-17T10:00:00Z",
+            "content": "The cost of buying a new house just hit a fresh record, even as mortgage rates dipped to the lowest level in three months, according to a new report.\r\nFindings from Redfin show the median U.S. home s… [+2814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Alexander Sammon",
+            "title": "Broker fee ban for renters: New York City real estate agents are losing their minds right now. - Slate",
+            "description": "It’s not every day you see real estate agents protesting in the street.",
+            "url": "https://slate.com/news-and-politics/2024/06/broker-fee-ban-tenants-renters-real-estate-new-york-city-inflation-housing-apartments.html",
+            "urlToImage": "https://compote.slate.com/images/cb0ad17b-30dc-4688-aad4-0ec21dc35f52.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2024-06-17T09:40:00Z",
+            "content": "Hundreds of real estate brokers were spilling off the sidewalk and into the street around New York City Hall. There will be more, broker Graig Linn assured me, venti iced Starbucks coffee in hand. It… [+9500 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "USA TODAY",
+            "title": "Nationwide drops pet insurance for 100,000 policyholders - USA TODAY",
+            "description": null,
+            "url": "https://www.usatoday.com/story/money/2024/06/17/nationwide-drops-pet-insurance-policies/74089275007/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T09:16:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Shares stable, euro downtrodden as political turmoil saps market mood - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-06-17/",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T08:43:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Daniel de Visé",
+            "title": "'Spaving' discounts can derail your finances - USA TODAY",
+            "description": "'Spaving,' a mashup of spending and saving, is a discount scheme that can play havoc with your finances.",
+            "url": "https://www.usatoday.com/story/money/2024/06/16/spaving-meaning-discounts-can-derail-finances/74095929007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/11/25/USAT/71702582007-usatsi-21962611.jpg?crop=2999,1688,x0,y197&width=2999&height=1688&format=pjpg&auto=webp",
+            "publishedAt": "2024-06-17T08:41:25Z",
+            "content": "Any time you buy two of something and get a third item for half off, or add a few dollars to an online order to secure free shipping, you are spaving.\r\nSpaving is a mashup of spending and saving: spe… [+6164 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Bloomberg",
+            "title": "Adidas Opens Fraud Probe in China After Whistleblower Letter - Bloomberg",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDI0LTA2LTE3L2FkaWRhcy1sYXVuY2hlcy1jaGluYS1pbnZlc3RpZ2F0aW9uLWFmdGVyLWFub255bW91cy1sZXR0ZXLSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T08:35:22Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cointelegraph"
+            },
+            "author": "Cointelegraph",
+            "title": "$66K BTC price now 'critical' — 5 things to know in Bitcoin this week - Cointelegraph",
+            "description": null,
+            "url": "https://cointelegraph.com/news/66k-btc-price-critical-5-things-bitcoin-this-week",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T08:02:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TheStreet"
+            },
+            "author": "TheStreet",
+            "title": "Nvidia's shares flashes key warning sign - TheStreet",
+            "description": null,
+            "url": "https://www.thestreet.com/investing/stocks/nvidias-shares-flashes-key-warning-sign",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T08:00:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Newsweek",
+            "title": "Social Security Payments to Go Out Earlier Than Usual - Newsweek",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9zb2NpYWwtc2VjdXJpdHktcGF5bWVudHMtZWFybGllci11c3VhbC1qdW5ldGVlbnRoLTE5MTM1MDXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-06-17T07:56:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Teslarati"
+            },
+            "author": "https://www.facebook.com/sim.alva",
+            "title": "Tesla Cybertruck survives hit-and-run sideswipe collision with zero scratches - TESLARATI",
+            "description": "After getting sideswiped, the Cybertruck didn't even need to get buffed out at all. It just needed some cleaning and some new PPF.",
+            "url": "https://www.teslarati.com/tesla-cybertruck-hit-and-run-sideswipe-crash-zero-scratches-video/",
+            "urlToImage": "https://www.teslarati.com/wp-content/uploads/2024/06/cybertruck-hit-and-run.jpg",
+            "publishedAt": "2024-06-17T05:36:25Z",
+            "content": "One of the jokes that car enthusiasts typically tell each other is that damages from a crash — no matter how serious — could probably get buffed out. In the case of a Tesla Cybertruck that was sidesw… [+2390 chars]"
+        }
+    ]
+}
