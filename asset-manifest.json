@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RozKiKhabre1/static/css/main.f855e6bc.css",
+    "main.js": "/RozKiKhabre1/static/js/main.2e1d9bf8.js",
+    "static/js/453.7d9a6089.chunk.js": "/RozKiKhabre1/static/js/453.7d9a6089.chunk.js",
+    "static/media/loading.gif": "/RozKiKhabre1/static/media/loading.b0770ca992eaa84556c9.gif",
+    "index.html": "/RozKiKhabre1/index.html",
+    "main.f855e6bc.css.map": "/RozKiKhabre1/static/css/main.f855e6bc.css.map",
+    "main.2e1d9bf8.js.map": "/RozKiKhabre1/static/js/main.2e1d9bf8.js.map",
+    "453.7d9a6089.chunk.js.map": "/RozKiKhabre1/static/js/453.7d9a6089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.2e1d9bf8.js"
+  ]
+}
